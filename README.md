@@ -1,10 +1,16 @@
 # detection-and-recognition-of-the-Algerian-license-plate
 ## instalation
+### program
 install [Python3.6](https://www.python.org/download/releases/3.0/)
 
 install [Arduino](https://www.arduino.cc/en/Main/Software)
 
-install [Easyphp](https://www.easyphp.org/)
+install [Easyphp](https://www.easyphp.org/) in windows or [xampp](https://doc.ubuntu-fr.org/xampp) in linux 
+
+
+### library
+
+open terminall and run :
 
 
 ```pip3 instal cv2 ```
