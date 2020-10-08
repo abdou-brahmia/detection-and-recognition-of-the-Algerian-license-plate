@@ -1,8 +1,11 @@
 # detection-and-recognition-of-the-Algerian-license-plate
 ## instalation
 install [Python3.6](https://www.python.org/download/releases/3.0/)
+
 install [Arduino](https://www.arduino.cc/en/Main/Software)
+
 install [Easyphp](https://www.easyphp.org/)
+
 
 ```pip3 instal cv2 ```
 
@@ -28,6 +31,7 @@ install [Easyphp](https://www.easyphp.org/)
 
 
 ## starting
+
 import the data base in eazyphp server
 
 open terminal in this folder and run :
