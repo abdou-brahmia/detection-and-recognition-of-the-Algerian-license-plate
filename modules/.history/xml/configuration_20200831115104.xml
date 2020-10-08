@@ -1,0 +1,14 @@
+<parameters>
+    <type>0</type>
+
+    <default>
+        <DisplayHeurAndDate>55</DisplayHeurAndDate>
+        <b>55</b>
+    </default>
+
+    <modifer>
+        <DisplayHeurAndDate>20</DisplayHeurAndDate>
+        <b>80</Display>
+    </modifer>
+
+</parameters>

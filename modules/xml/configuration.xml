@@ -1,0 +1,34 @@
+<parameters>
+    <type>0</type>
+
+    <default>
+        <DisplayHeurAndDate>1</DisplayHeurAndDate>
+        <DisplayGray>0</DisplayGray>
+        <Threading>0</Threading>
+        <DisplayMatborder>1</DisplayMatborder>
+        <DisplayMatNum>1</DisplayMatNum>
+        <ColorYcrcbOrGray>1</ColorYcrcbOrGray>
+        <BDDCsvImages>1</BDDCsvImages>
+        <BDD>1</BDD>
+        <NombreFrameMaj>30</NombreFrameMaj>   
+        <SEILLE_PIXEL>50</SEILLE_PIXEL>   
+        <SEILLE_IMAGE>200</SEILLE_IMAGE>   
+        <SEILLE_IMAGE_2>10000</SEILLE_IMAGE_2>   
+    </default>
+
+    <modifer>
+        <DisplayHeurAndDate>1</DisplayHeurAndDate>
+        <DisplayGray>0</DisplayGray>
+        <Threading>0</Threading>
+        <DisplayMatborder>1</DisplayMatborder>
+        <DisplayMatNum>1</DisplayMatNum>
+        <ColorYcrcbOrGray>1</ColorYcrcbOrGray>
+        <BDDCsvImages>0</BDDCsvImages>
+        <BDD>1</BDD>
+        <NombreFrameMaj>30</NombreFrameMaj>   
+        <SEILLE_PIXEL>50</SEILLE_PIXEL>   
+        <SEILLE_IMAGE>200</SEILLE_IMAGE>   
+        <SEILLE_IMAGE_2>10000</SEILLE_IMAGE_2>   
+    </modifer>
+
+</parameters>
