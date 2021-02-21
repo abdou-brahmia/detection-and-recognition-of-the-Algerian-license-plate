@@ -17,7 +17,7 @@ open terminall and run :
 
 ```pip3 install numpy```
 
-```pip3 inctall ```
+```pip3 install mysql```
 
 ```pip3 install pyqt5```
 
